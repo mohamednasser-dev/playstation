@@ -2,7 +2,7 @@
 
     function  ImagePath()
     {
-        return "https://cp.gmzstation.com/public/";
+        return "http://localhost/public/";
     }
 
 ?>

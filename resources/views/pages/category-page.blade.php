@@ -135,7 +135,7 @@
                            <div class="games-single-item img-contain-isotope">
                               <div class="games-thumb">
                                     <a href="{{ url($prod->id).'/product-page' }}">
-                                    <img src="{{$prod->ReturnLangPhoto()}}" alt="nasser" />
+                                    <img src="{{$prod->ReturnLangPhoto()}}" alt="games" />
                                     </a>                                 
                               </div>
                               <div class="games-desc">
